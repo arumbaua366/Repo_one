@@ -1,6 +1,7 @@
 html {
     position: relative;
     min-height: 100%;
+    font-family: 'Oxanium';
 }
 
 body {
@@ -22,13 +23,16 @@ body {
 
 a {
     text-decoration: none;
+    font-family: 'Oxanium';
 }
 
 .blockquote {
     font-style: italic;
+    font-family: 'Oxanium';
 }
 
-html {
+
+/* html {
     font-size: 1rem;
   }
   
@@ -48,4 +52,4 @@ html {
     html {
       font-size: 1.6rem;
     }
-  }
+  } */
