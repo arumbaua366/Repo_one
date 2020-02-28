@@ -19,3 +19,11 @@ body {
     line-height: 60px;
     text-align: center;
 }
+
+a.card-title {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
