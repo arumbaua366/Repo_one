@@ -1,0 +1,1 @@
+This is my second portfolio website. Instead of just using simple CSS designs, I incorporated Bootstrap 4 designs into this website. While it is a work in progress, it should show some of the concepts we learned about in the first few weeks of the bootcamp.
